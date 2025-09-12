@@ -1,7 +1,7 @@
 # Project Euler Solutions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Progress](https://img.shields.io/badge/Progress-0%20%2F%20700%2B-blue)
+![Progress](https://img.shields.io/badge/Progress-1%20%2F%20700%2B-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
 A repository dedicated to my journey of solving challenging mathematical and computational problems from [Project Euler](https://projecteuler.net/). All solutions are implemented in Python.
